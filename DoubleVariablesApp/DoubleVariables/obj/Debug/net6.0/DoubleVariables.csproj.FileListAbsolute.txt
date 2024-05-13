@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.exe
+C:\Users\HOME\Desktop\Temp\Demos\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.dll
+C:\Users\HOME\Desktop\Temp\Demos\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.pdb
+C:\Users\HOME\Desktop\Temp\Demos\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.dll
+C:\Users\HOME\Desktop\Temp\Demos\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\refint\DoubleVariables.dll
+C:\Users\HOME\Desktop\Temp\Demos\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.pdb
+C:\Users\HOME\Desktop\Temp\Demos\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\ref\DoubleVariables.dll

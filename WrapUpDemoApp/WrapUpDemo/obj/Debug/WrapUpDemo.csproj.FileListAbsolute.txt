@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\Temp\Demos\WrapUpDemoApp\WrapUpDemo\bin\Debug\WrapUpDemo.exe.config
+C:\Users\HOME\Desktop\Temp\Demos\WrapUpDemoApp\WrapUpDemo\bin\Debug\WrapUpDemo.exe
+C:\Users\HOME\Desktop\Temp\Demos\WrapUpDemoApp\WrapUpDemo\bin\Debug\WrapUpDemo.pdb
+C:\Users\HOME\Desktop\Temp\Demos\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Temp\Demos\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.exe
+C:\Users\HOME\Desktop\Temp\Demos\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.pdb

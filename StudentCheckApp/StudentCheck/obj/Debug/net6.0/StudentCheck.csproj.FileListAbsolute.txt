@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\StudentCheckApp\StudentCheck\bin\Debug\net6.0\StudentCheck.exe
+C:\Users\HOME\Desktop\Temp\Demos\StudentCheckApp\StudentCheck\bin\Debug\net6.0\StudentCheck.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\StudentCheckApp\StudentCheck\bin\Debug\net6.0\StudentCheck.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\StudentCheckApp\StudentCheck\bin\Debug\net6.0\StudentCheck.dll
+C:\Users\HOME\Desktop\Temp\Demos\StudentCheckApp\StudentCheck\bin\Debug\net6.0\StudentCheck.pdb
+C:\Users\HOME\Desktop\Temp\Demos\StudentCheckApp\StudentCheck\obj\Debug\net6.0\StudentCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\StudentCheckApp\StudentCheck\obj\Debug\net6.0\StudentCheck.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\StudentCheckApp\StudentCheck\obj\Debug\net6.0\StudentCheck.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\StudentCheckApp\StudentCheck\obj\Debug\net6.0\StudentCheck.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\StudentCheckApp\StudentCheck\obj\Debug\net6.0\StudentCheck.dll
+C:\Users\HOME\Desktop\Temp\Demos\StudentCheckApp\StudentCheck\obj\Debug\net6.0\refint\StudentCheck.dll
+C:\Users\HOME\Desktop\Temp\Demos\StudentCheckApp\StudentCheck\obj\Debug\net6.0\StudentCheck.pdb
+C:\Users\HOME\Desktop\Temp\Demos\StudentCheckApp\StudentCheck\obj\Debug\net6.0\StudentCheck.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\StudentCheckApp\StudentCheck\obj\Debug\net6.0\ref\StudentCheck.dll

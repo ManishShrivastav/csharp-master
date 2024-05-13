@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qlWl11r6pZp3sZe0azrisJVrsTkucYFlSHgJurlT4oE=",
+  "Source": "APITestSQL",
+  "BasePath": "_content/APITestSQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

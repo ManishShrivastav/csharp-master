@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ClassLibraryDemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{422DB08F-B363-470E-AA78-C2CB1F73B4F7}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\home\\desktop\\temp\\demos\\classlibrarydemoapp\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422DB08F-B363-470E-AA78-C2CB1F73B4F7}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F64D69-C85A-4F92-937A-304A9D8CC5D6}|CoreLibrary\\CoreLibrary.csproj|c:\\users\\home\\desktop\\temp\\demos\\classlibrarydemoapp\\corelibrary\\generators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F64D69-C85A-4F92-937A-304A9D8CC5D6}|CoreLibrary\\CoreLibrary.csproj|solutionrelative:corelibrary\\generators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F64D69-C85A-4F92-937A-304A9D8CC5D6}|CoreLibrary\\CoreLibrary.csproj|c:\\users\\home\\desktop\\temp\\demos\\classlibrarydemoapp\\corelibrary\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F64D69-C85A-4F92-937A-304A9D8CC5D6}|CoreLibrary\\CoreLibrary.csproj|solutionrelative:corelibrary\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Generators.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ClassLibraryDemoApp\\CoreLibrary\\Generators.cs",
+              "RelativeDocumentMoniker": "CoreLibrary\\Generators.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ClassLibraryDemoApp\\CoreLibrary\\Generators.cs",
+              "RelativeToolTip": "CoreLibrary\\Generators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:14:38.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ClassLibraryDemoApp\\CoreLibrary\\PersonModel.cs",
+              "RelativeDocumentMoniker": "CoreLibrary\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ClassLibraryDemoApp\\CoreLibrary\\PersonModel.cs",
+              "RelativeToolTip": "CoreLibrary\\PersonModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:12:44.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ClassLibraryDemoApp\\ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ClassLibraryDemoApp\\ConsoleUI\\Program.cs",
+              "RelativeToolTip": "ConsoleUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:08:06.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

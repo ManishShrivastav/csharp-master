@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\BlazorServerMiniProjectApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A500DA8-7EB8-4051-A70D-9F93551C7CC9}|BlazorServerMiniProject\\BlazorServerMiniProject.csproj|c:\\users\\home\\desktop\\temp\\demos\\blazorserverminiprojectapp\\blazorserverminiproject\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A500DA8-7EB8-4051-A70D-9F93551C7CC9}|BlazorServerMiniProject\\BlazorServerMiniProject.csproj|solutionrelative:blazorserverminiproject\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A500DA8-7EB8-4051-A70D-9F93551C7CC9}|BlazorServerMiniProject\\BlazorServerMiniProject.csproj|c:\\users\\home\\desktop\\temp\\demos\\blazorserverminiprojectapp\\blazorserverminiproject\\pages\\addressentry.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A500DA8-7EB8-4051-A70D-9F93551C7CC9}|BlazorServerMiniProject\\BlazorServerMiniProject.csproj|solutionrelative:blazorserverminiproject\\pages\\addressentry.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A500DA8-7EB8-4051-A70D-9F93551C7CC9}|BlazorServerMiniProject\\BlazorServerMiniProject.csproj|c:\\users\\home\\desktop\\temp\\demos\\blazorserverminiprojectapp\\blazorserverminiproject\\pages\\peopleentry.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A500DA8-7EB8-4051-A70D-9F93551C7CC9}|BlazorServerMiniProject\\BlazorServerMiniProject.csproj|solutionrelative:blazorserverminiproject\\pages\\peopleentry.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A500DA8-7EB8-4051-A70D-9F93551C7CC9}|BlazorServerMiniProject\\BlazorServerMiniProject.csproj|c:\\users\\home\\desktop\\temp\\demos\\blazorserverminiprojectapp\\blazorserverminiproject\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A500DA8-7EB8-4051-A70D-9F93551C7CC9}|BlazorServerMiniProject\\BlazorServerMiniProject.csproj|solutionrelative:blazorserverminiproject\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\BlazorServerMiniProjectApp\\BlazorServerMiniProject\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorServerMiniProject\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\BlazorServerMiniProjectApp\\BlazorServerMiniProject\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BlazorServerMiniProject\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T04:53:38.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddressEntry.razor",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\BlazorServerMiniProjectApp\\BlazorServerMiniProject\\Pages\\AddressEntry.razor",
+              "RelativeDocumentMoniker": "BlazorServerMiniProject\\Pages\\AddressEntry.razor",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\BlazorServerMiniProjectApp\\BlazorServerMiniProject\\Pages\\AddressEntry.razor",
+              "RelativeToolTip": "BlazorServerMiniProject\\Pages\\AddressEntry.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T04:43:21.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeopleEntry.razor",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\BlazorServerMiniProjectApp\\BlazorServerMiniProject\\Pages\\PeopleEntry.razor",
+              "RelativeDocumentMoniker": "BlazorServerMiniProject\\Pages\\PeopleEntry.razor",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\BlazorServerMiniProjectApp\\BlazorServerMiniProject\\Pages\\PeopleEntry.razor",
+              "RelativeToolTip": "BlazorServerMiniProject\\Pages\\PeopleEntry.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T01:23:03.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\BlazorServerMiniProjectApp\\BlazorServerMiniProject\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorServerMiniProject\\_Imports.razor",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\BlazorServerMiniProjectApp\\BlazorServerMiniProject\\_Imports.razor",
+              "RelativeToolTip": "BlazorServerMiniProject\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T01:22:21.248Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

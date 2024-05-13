@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ForLoopsHWApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{409A8A90-D411-4271-9E80-545D60BC4F04}|ForLoopsHW\\ForLoopsHW.csproj|c:\\users\\home\\desktop\\temp\\demos\\forloopshwapp\\forloopshw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409A8A90-D411-4271-9E80-545D60BC4F04}|ForLoopsHW\\ForLoopsHW.csproj|solutionrelative:forloopshw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ForLoopsHWApp\\ForLoopsHW\\Program.cs",
+              "RelativeDocumentMoniker": "ForLoopsHW\\Program.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ForLoopsHWApp\\ForLoopsHW\\Program.cs",
+              "RelativeToolTip": "ForLoopsHW\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:51:50.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

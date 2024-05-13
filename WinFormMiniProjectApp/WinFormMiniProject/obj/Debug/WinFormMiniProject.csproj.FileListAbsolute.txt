@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Temp\Demos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.PersonEntry.resources
+C:\Users\HOME\Desktop\Temp\Demos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.Properties.Resources.resources
+C:\Users\HOME\Desktop\Temp\Demos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\Temp\Demos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\WinFormMiniProject.exe.config
+C:\Users\HOME\Desktop\Temp\Demos\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\WinFormMiniProject.exe
+C:\Users\HOME\Desktop\Temp\Demos\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\WinFormMiniProject.pdb
+C:\Users\HOME\Desktop\Temp\Demos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.exe
+C:\Users\HOME\Desktop\Temp\Demos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.pdb
+C:\Users\HOME\Desktop\Temp\Demos\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\DemoLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\DemoLibrary.pdb
+C:\Users\HOME\Desktop\Temp\Demos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.csproj.CopyComplete
+C:\Users\HOME\Desktop\Temp\Demos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.AddressEntry.resources

@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\BasicIfApp\BasicIf\bin\Debug\net6.0\BasicIf.exe
+C:\Users\HOME\Desktop\Temp\Demos\BasicIfApp\BasicIf\bin\Debug\net6.0\BasicIf.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\BasicIfApp\BasicIf\bin\Debug\net6.0\BasicIf.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\BasicIfApp\BasicIf\bin\Debug\net6.0\BasicIf.dll
+C:\Users\HOME\Desktop\Temp\Demos\BasicIfApp\BasicIf\bin\Debug\net6.0\BasicIf.pdb
+C:\Users\HOME\Desktop\Temp\Demos\BasicIfApp\BasicIf\obj\Debug\net6.0\BasicIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\BasicIfApp\BasicIf\obj\Debug\net6.0\BasicIf.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\BasicIfApp\BasicIf\obj\Debug\net6.0\BasicIf.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\BasicIfApp\BasicIf\obj\Debug\net6.0\BasicIf.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\BasicIfApp\BasicIf\obj\Debug\net6.0\BasicIf.dll
+C:\Users\HOME\Desktop\Temp\Demos\BasicIfApp\BasicIf\obj\Debug\net6.0\refint\BasicIf.dll
+C:\Users\HOME\Desktop\Temp\Demos\BasicIfApp\BasicIf\obj\Debug\net6.0\BasicIf.pdb
+C:\Users\HOME\Desktop\Temp\Demos\BasicIfApp\BasicIf\obj\Debug\net6.0\BasicIf.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\BasicIfApp\BasicIf\obj\Debug\net6.0\ref\BasicIf.dll

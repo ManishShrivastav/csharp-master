@@ -1,0 +1,10 @@
+C:\Users\HOME\Desktop\Temp\Demos\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.dacpac
+C:\Users\HOME\Desktop\Temp\Demos\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.dll
+C:\Users\HOME\Desktop\Temp\Demos\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.pdb
+C:\Users\HOME\Desktop\Temp\Demos\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.sqlproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Temp\Demos\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.dll
+C:\Users\HOME\Desktop\Temp\Demos\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.pdb
+C:\Users\HOME\Desktop\Temp\Demos\HotelApp\HotelAppDB\obj\Debug\Model.xml
+C:\Users\HOME\Desktop\Temp\Demos\HotelApp\HotelAppDB\obj\Debug\refactor.xml
+C:\Users\HOME\Desktop\Temp\Demos\HotelApp\HotelAppDB\obj\Debug\postdeploy.sql
+C:\Users\HOME\Desktop\Temp\Demos\HotelApp\HotelAppDB\obj\Debug\predeploy.sql

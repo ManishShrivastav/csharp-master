@@ -1,0 +1,10 @@
+C:\Users\HOME\Desktop\Temp\Demos\BetterGuestBookHw\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\HOME\Desktop\Temp\Demos\BetterGuestBookHw\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\HOME\Desktop\Temp\Demos\BetterGuestBookHw\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\HOME\Desktop\Temp\Demos\BetterGuestBookHw\ConsoleUI\bin\Debug\GuestBookLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\BetterGuestBookHw\ConsoleUI\bin\Debug\GuestBookLibrary.pdb
+C:\Users\HOME\Desktop\Temp\Demos\BetterGuestBookHw\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Temp\Demos\BetterGuestBookHw\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\BetterGuestBookHw\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\HOME\Desktop\Temp\Demos\BetterGuestBookHw\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\HOME\Desktop\Temp\Demos\BetterGuestBookHw\ConsoleUI\obj\Debug\ConsoleUI.pdb

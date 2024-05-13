@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\DoWhileHWApp\DoWhileHW\bin\Debug\net6.0\DoWhileHW.exe
+C:\Users\HOME\Desktop\Temp\Demos\DoWhileHWApp\DoWhileHW\bin\Debug\net6.0\DoWhileHW.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\DoWhileHWApp\DoWhileHW\bin\Debug\net6.0\DoWhileHW.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\DoWhileHWApp\DoWhileHW\bin\Debug\net6.0\DoWhileHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\DoWhileHWApp\DoWhileHW\bin\Debug\net6.0\DoWhileHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\DoWhileHWApp\DoWhileHW\obj\Debug\net6.0\DoWhileHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\DoWhileHWApp\DoWhileHW\obj\Debug\net6.0\DoWhileHW.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\DoWhileHWApp\DoWhileHW\obj\Debug\net6.0\DoWhileHW.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\DoWhileHWApp\DoWhileHW\obj\Debug\net6.0\DoWhileHW.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\DoWhileHWApp\DoWhileHW\obj\Debug\net6.0\DoWhileHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\DoWhileHWApp\DoWhileHW\obj\Debug\net6.0\refint\DoWhileHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\DoWhileHWApp\DoWhileHW\obj\Debug\net6.0\DoWhileHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\DoWhileHWApp\DoWhileHW\obj\Debug\net6.0\DoWhileHW.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\DoWhileHWApp\DoWhileHW\obj\Debug\net6.0\ref\DoWhileHW.dll

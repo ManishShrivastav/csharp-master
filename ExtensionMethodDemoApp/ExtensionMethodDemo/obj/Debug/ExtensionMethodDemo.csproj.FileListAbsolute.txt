@@ -1,0 +1,7 @@
+C:\Users\HOME\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\bin\Debug\ExtensionMethodDemo.exe.config
+C:\Users\HOME\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\bin\Debug\ExtensionMethodDemo.exe
+C:\Users\HOME\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\bin\Debug\ExtensionMethodDemo.pdb
+C:\Users\HOME\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.csproj.AssemblyReference.cache
+C:\Users\HOME\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.exe
+C:\Users\HOME\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.pdb

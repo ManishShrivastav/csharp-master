@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\Intertvies\Intertvies\bin\Debug\net6.0\Intertvies.exe
+C:\Users\HOME\Desktop\Temp\Demos\Intertvies\Intertvies\bin\Debug\net6.0\Intertvies.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\Intertvies\Intertvies\bin\Debug\net6.0\Intertvies.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\Intertvies\Intertvies\bin\Debug\net6.0\Intertvies.dll
+C:\Users\HOME\Desktop\Temp\Demos\Intertvies\Intertvies\bin\Debug\net6.0\Intertvies.pdb
+C:\Users\HOME\Desktop\Temp\Demos\Intertvies\Intertvies\obj\Debug\net6.0\Intertvies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\Intertvies\Intertvies\obj\Debug\net6.0\Intertvies.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\Intertvies\Intertvies\obj\Debug\net6.0\Intertvies.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\Intertvies\Intertvies\obj\Debug\net6.0\Intertvies.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\Intertvies\Intertvies\obj\Debug\net6.0\Intertvies.dll
+C:\Users\HOME\Desktop\Temp\Demos\Intertvies\Intertvies\obj\Debug\net6.0\refint\Intertvies.dll
+C:\Users\HOME\Desktop\Temp\Demos\Intertvies\Intertvies\obj\Debug\net6.0\Intertvies.pdb
+C:\Users\HOME\Desktop\Temp\Demos\Intertvies\Intertvies\obj\Debug\net6.0\Intertvies.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\Intertvies\Intertvies\obj\Debug\net6.0\ref\Intertvies.dll

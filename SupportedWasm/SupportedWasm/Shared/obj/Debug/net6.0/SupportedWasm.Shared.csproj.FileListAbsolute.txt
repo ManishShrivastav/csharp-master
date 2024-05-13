@@ -1,0 +1,11 @@
+C:\Users\HOME\Desktop\Temp\Demos\SupportedWasm\SupportedWasm\Shared\bin\Debug\net6.0\SupportedWasm.Shared.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\SupportedWasm\SupportedWasm\Shared\bin\Debug\net6.0\SupportedWasm.Shared.dll
+C:\Users\HOME\Desktop\Temp\Demos\SupportedWasm\SupportedWasm\Shared\bin\Debug\net6.0\SupportedWasm.Shared.pdb
+C:\Users\HOME\Desktop\Temp\Demos\SupportedWasm\SupportedWasm\Shared\obj\Debug\net6.0\SupportedWasm.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\SupportedWasm\SupportedWasm\Shared\obj\Debug\net6.0\SupportedWasm.Shared.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\SupportedWasm\SupportedWasm\Shared\obj\Debug\net6.0\SupportedWasm.Shared.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\SupportedWasm\SupportedWasm\Shared\obj\Debug\net6.0\SupportedWasm.Shared.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\SupportedWasm\SupportedWasm\Shared\obj\Debug\net6.0\SupportedWasm.Shared.dll
+C:\Users\HOME\Desktop\Temp\Demos\SupportedWasm\SupportedWasm\Shared\obj\Debug\net6.0\refint\SupportedWasm.Shared.dll
+C:\Users\HOME\Desktop\Temp\Demos\SupportedWasm\SupportedWasm\Shared\obj\Debug\net6.0\SupportedWasm.Shared.pdb
+C:\Users\HOME\Desktop\Temp\Demos\SupportedWasm\SupportedWasm\Shared\obj\Debug\net6.0\ref\SupportedWasm.Shared.dll

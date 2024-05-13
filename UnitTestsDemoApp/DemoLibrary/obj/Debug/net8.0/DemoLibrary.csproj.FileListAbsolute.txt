@@ -1,0 +1,11 @@
+C:\Users\HOME\Desktop\Temp\Demos\UnitTestsDemoApp\DemoLibrary\bin\Debug\net8.0\DemoLibrary.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\UnitTestsDemoApp\DemoLibrary\bin\Debug\net8.0\DemoLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\UnitTestsDemoApp\DemoLibrary\bin\Debug\net8.0\DemoLibrary.pdb
+C:\Users\HOME\Desktop\Temp\Demos\UnitTestsDemoApp\DemoLibrary\obj\Debug\net8.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\UnitTestsDemoApp\DemoLibrary\obj\Debug\net8.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\UnitTestsDemoApp\DemoLibrary\obj\Debug\net8.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\UnitTestsDemoApp\DemoLibrary\obj\Debug\net8.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\UnitTestsDemoApp\DemoLibrary\obj\Debug\net8.0\DemoLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\UnitTestsDemoApp\DemoLibrary\obj\Debug\net8.0\refint\DemoLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\UnitTestsDemoApp\DemoLibrary\obj\Debug\net8.0\DemoLibrary.pdb
+C:\Users\HOME\Desktop\Temp\Demos\UnitTestsDemoApp\DemoLibrary\obj\Debug\net8.0\ref\DemoLibrary.dll

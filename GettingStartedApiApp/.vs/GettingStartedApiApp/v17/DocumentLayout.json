@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\GettingStartedApiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3118144F-F4F1-4C5A-A2CE-ACECA39521B7}|GettingStartedApi\\GettingStartedApi.csproj|c:\\users\\home\\desktop\\temp\\demos\\gettingstartedapiapp\\gettingstartedapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3118144F-F4F1-4C5A-A2CE-ACECA39521B7}|GettingStartedApi\\GettingStartedApi.csproj|solutionrelative:gettingstartedapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\GettingStartedApiApp\\GettingStartedApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "GettingStartedApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\GettingStartedApiApp\\GettingStartedApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "GettingStartedApi\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:51:59.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

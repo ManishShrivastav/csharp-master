@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\DictionaryHWApp\DictionaryHW\bin\Debug\net6.0\DictionaryHW.exe
+C:\Users\HOME\Desktop\Temp\Demos\DictionaryHWApp\DictionaryHW\bin\Debug\net6.0\DictionaryHW.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\DictionaryHWApp\DictionaryHW\bin\Debug\net6.0\DictionaryHW.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\DictionaryHWApp\DictionaryHW\bin\Debug\net6.0\DictionaryHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\DictionaryHWApp\DictionaryHW\bin\Debug\net6.0\DictionaryHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\DictionaryHWApp\DictionaryHW\obj\Debug\net6.0\DictionaryHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\DictionaryHWApp\DictionaryHW\obj\Debug\net6.0\DictionaryHW.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\DictionaryHWApp\DictionaryHW\obj\Debug\net6.0\DictionaryHW.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\DictionaryHWApp\DictionaryHW\obj\Debug\net6.0\DictionaryHW.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\DictionaryHWApp\DictionaryHW\obj\Debug\net6.0\DictionaryHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\DictionaryHWApp\DictionaryHW\obj\Debug\net6.0\refint\DictionaryHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\DictionaryHWApp\DictionaryHW\obj\Debug\net6.0\DictionaryHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\DictionaryHWApp\DictionaryHW\obj\Debug\net6.0\DictionaryHW.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\DictionaryHWApp\DictionaryHW\obj\Debug\net6.0\ref\DictionaryHW.dll

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\DependencyInjectionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41FA23-7278-4887-B5E8-70C3BAF63A15}|BlazorServerDemo\\BlazorServerDemo.csproj|c:\\users\\home\\desktop\\temp\\demos\\dependencyinjectionapp\\blazorserverdemo\\demodisetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41FA23-7278-4887-B5E8-70C3BAF63A15}|BlazorServerDemo\\BlazorServerDemo.csproj|solutionrelative:blazorserverdemo\\demodisetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41FA23-7278-4887-B5E8-70C3BAF63A15}|BlazorServerDemo\\BlazorServerDemo.csproj|c:\\users\\home\\desktop\\temp\\demos\\dependencyinjectionapp\\blazorserverdemo\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41FA23-7278-4887-B5E8-70C3BAF63A15}|BlazorServerDemo\\BlazorServerDemo.csproj|solutionrelative:blazorserverdemo\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41FA23-7278-4887-B5E8-70C3BAF63A15}|BlazorServerDemo\\BlazorServerDemo.csproj|c:\\users\\home\\desktop\\temp\\demos\\dependencyinjectionapp\\blazorserverdemo\\data\\processdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41FA23-7278-4887-B5E8-70C3BAF63A15}|BlazorServerDemo\\BlazorServerDemo.csproj|solutionrelative:blazorserverdemo\\data\\processdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41FA23-7278-4887-B5E8-70C3BAF63A15}|BlazorServerDemo\\BlazorServerDemo.csproj|c:\\users\\home\\desktop\\temp\\demos\\dependencyinjectionapp\\blazorserverdemo\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F41FA23-7278-4887-B5E8-70C3BAF63A15}|BlazorServerDemo\\BlazorServerDemo.csproj|solutionrelative:blazorserverdemo\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41FA23-7278-4887-B5E8-70C3BAF63A15}|BlazorServerDemo\\BlazorServerDemo.csproj|c:\\users\\home\\desktop\\temp\\demos\\dependencyinjectionapp\\blazorserverdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41FA23-7278-4887-B5E8-70C3BAF63A15}|BlazorServerDemo\\BlazorServerDemo.csproj|solutionrelative:blazorserverdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\DependencyInjectionApp\\BlazorServerDemo\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "BlazorServerDemo\\Models\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\DependencyInjectionApp\\BlazorServerDemo\\Models\\PersonModel.cs",
+              "RelativeToolTip": "BlazorServerDemo\\Models\\PersonModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:02:14.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\DependencyInjectionApp\\BlazorServerDemo\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorServerDemo\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\DependencyInjectionApp\\BlazorServerDemo\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazorServerDemo\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T20:31:57.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoDISetup.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\DependencyInjectionApp\\BlazorServerDemo\\DemoDISetup.cs",
+              "RelativeDocumentMoniker": "BlazorServerDemo\\DemoDISetup.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\DependencyInjectionApp\\BlazorServerDemo\\DemoDISetup.cs",
+              "RelativeToolTip": "BlazorServerDemo\\DemoDISetup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:25:53.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessDemo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\DependencyInjectionApp\\BlazorServerDemo\\Data\\ProcessDemo.cs",
+              "RelativeDocumentMoniker": "BlazorServerDemo\\Data\\ProcessDemo.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\DependencyInjectionApp\\BlazorServerDemo\\Data\\ProcessDemo.cs",
+              "RelativeToolTip": "BlazorServerDemo\\Data\\ProcessDemo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:25:28.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\DependencyInjectionApp\\BlazorServerDemo\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorServerDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\DependencyInjectionApp\\BlazorServerDemo\\Program.cs",
+              "RelativeToolTip": "BlazorServerDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:24:41.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

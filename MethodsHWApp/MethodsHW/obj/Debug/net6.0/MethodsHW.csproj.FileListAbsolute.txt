@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\MethodsHWApp\MethodsHW\obj\Debug\net6.0\MethodsHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\MethodsHWApp\MethodsHW\obj\Debug\net6.0\MethodsHW.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\MethodsHWApp\MethodsHW\obj\Debug\net6.0\MethodsHW.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\MethodsHWApp\MethodsHW\obj\Debug\net6.0\MethodsHW.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\MethodsHWApp\MethodsHW\bin\Debug\net6.0\MethodsHW.exe
+C:\Users\HOME\Desktop\Temp\Demos\MethodsHWApp\MethodsHW\bin\Debug\net6.0\MethodsHW.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\MethodsHWApp\MethodsHW\bin\Debug\net6.0\MethodsHW.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\MethodsHWApp\MethodsHW\bin\Debug\net6.0\MethodsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\MethodsHWApp\MethodsHW\bin\Debug\net6.0\MethodsHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\MethodsHWApp\MethodsHW\obj\Debug\net6.0\MethodsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\MethodsHWApp\MethodsHW\obj\Debug\net6.0\refint\MethodsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\MethodsHWApp\MethodsHW\obj\Debug\net6.0\MethodsHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\MethodsHWApp\MethodsHW\obj\Debug\net6.0\MethodsHW.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\MethodsHWApp\MethodsHW\obj\Debug\net6.0\ref\MethodsHW.dll

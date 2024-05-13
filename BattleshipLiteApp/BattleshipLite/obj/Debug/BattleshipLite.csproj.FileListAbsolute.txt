@@ -1,0 +1,10 @@
+C:\Users\HOME\Desktop\Temp\Demos\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLite.exe.config
+C:\Users\HOME\Desktop\Temp\Demos\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLite.exe
+C:\Users\HOME\Desktop\Temp\Demos\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLite.pdb
+C:\Users\HOME\Desktop\Temp\Demos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Temp\Demos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.exe
+C:\Users\HOME\Desktop\Temp\Demos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.pdb
+C:\Users\HOME\Desktop\Temp\Demos\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLiteLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\BattleshipLiteApp\BattleshipLite\bin\Debug\BattleshipLiteLibrary.pdb
+C:\Users\HOME\Desktop\Temp\Demos\BattleshipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.CopyComplete

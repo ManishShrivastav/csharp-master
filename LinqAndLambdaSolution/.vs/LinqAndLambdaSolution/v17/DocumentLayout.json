@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\LinqAndLambdaSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28EFF400-B578-4F2B-8E49-423E9AD2AFB3}|LinqUI\\LinqUI.csproj|c:\\users\\home\\desktop\\temp\\demos\\linqandlambdasolution\\linqui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EFF400-B578-4F2B-8E49-423E9AD2AFB3}|LinqUI\\LinqUI.csproj|solutionrelative:linqui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EFF400-B578-4F2B-8E49-423E9AD2AFB3}|LinqUI\\LinqUI.csproj|c:\\users\\home\\desktop\\temp\\demos\\linqandlambdasolution\\linqui\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EFF400-B578-4F2B-8E49-423E9AD2AFB3}|LinqUI\\LinqUI.csproj|solutionrelative:linqui\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EFF400-B578-4F2B-8E49-423E9AD2AFB3}|LinqUI\\LinqUI.csproj|c:\\users\\home\\desktop\\temp\\demos\\linqandlambdasolution\\linqui\\models\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EFF400-B578-4F2B-8E49-423E9AD2AFB3}|LinqUI\\LinqUI.csproj|solutionrelative:linqui\\models\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddressModel.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\LinqAndLambdaSolution\\LinqUI\\Models\\AddressModel.cs",
+              "RelativeDocumentMoniker": "LinqUI\\Models\\AddressModel.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\LinqAndLambdaSolution\\LinqUI\\Models\\AddressModel.cs",
+              "RelativeToolTip": "LinqUI\\Models\\AddressModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:47:21.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SampleData.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\LinqAndLambdaSolution\\LinqUI\\SampleData.cs",
+              "RelativeDocumentMoniker": "LinqUI\\SampleData.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\LinqAndLambdaSolution\\LinqUI\\SampleData.cs",
+              "RelativeToolTip": "LinqUI\\SampleData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:04:05.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\LinqAndLambdaSolution\\LinqUI\\Program.cs",
+              "RelativeDocumentMoniker": "LinqUI\\Program.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\LinqAndLambdaSolution\\LinqUI\\Program.cs",
+              "RelativeToolTip": "LinqUI\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA8wE0AAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:03:08.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

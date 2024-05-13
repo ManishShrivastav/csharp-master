@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\NoSqlDBSolution\DataAccessLibrary\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\HOME\Desktop\Temp\Demos\NoSqlDBSolution\DataAccessLibrary\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\HOME\Desktop\Temp\Demos\NoSqlDBSolution\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\NoSqlDBSolution\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\NoSqlDBSolution\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.pdb
+C:\Users\HOME\Desktop\Temp\Demos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Temp\Demos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net6.0\refint\DataAccessLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.pdb
+C:\Users\HOME\Desktop\Temp\Demos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\net6.0\ref\DataAccessLibrary.dll

@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\VariablesHWApp\VariablesHW\bin\Debug\net6.0\VariablesHW.exe
+C:\Users\HOME\Desktop\Temp\Demos\VariablesHWApp\VariablesHW\bin\Debug\net6.0\VariablesHW.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\VariablesHWApp\VariablesHW\bin\Debug\net6.0\VariablesHW.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\VariablesHWApp\VariablesHW\bin\Debug\net6.0\VariablesHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\VariablesHWApp\VariablesHW\bin\Debug\net6.0\VariablesHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\VariablesHWApp\VariablesHW\obj\Debug\net6.0\VariablesHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\VariablesHWApp\VariablesHW\obj\Debug\net6.0\VariablesHW.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\VariablesHWApp\VariablesHW\obj\Debug\net6.0\VariablesHW.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\VariablesHWApp\VariablesHW\obj\Debug\net6.0\VariablesHW.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\VariablesHWApp\VariablesHW\obj\Debug\net6.0\VariablesHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\VariablesHWApp\VariablesHW\obj\Debug\net6.0\refint\VariablesHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\VariablesHWApp\VariablesHW\obj\Debug\net6.0\VariablesHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\VariablesHWApp\VariablesHW\obj\Debug\net6.0\VariablesHW.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\VariablesHWApp\VariablesHW\obj\Debug\net6.0\ref\VariablesHW.dll

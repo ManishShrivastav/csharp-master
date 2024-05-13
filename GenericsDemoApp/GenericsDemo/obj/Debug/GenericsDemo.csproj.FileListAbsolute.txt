@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\Temp\Demos\GenericsDemoApp\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+C:\Users\HOME\Desktop\Temp\Demos\GenericsDemoApp\GenericsDemo\bin\Debug\GenericsDemo.exe
+C:\Users\HOME\Desktop\Temp\Demos\GenericsDemoApp\GenericsDemo\bin\Debug\GenericsDemo.pdb
+C:\Users\HOME\Desktop\Temp\Demos\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Temp\Demos\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.exe
+C:\Users\HOME\Desktop\Temp\Demos\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.pdb

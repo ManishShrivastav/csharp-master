@@ -1,0 +1,11 @@
+C:\Users\HOME\Desktop\Temp\Demos\CalculatorUnitTestsDemoApp\CalculationLibrary\bin\Debug\net8.0\CalculationLibrary.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\CalculatorUnitTestsDemoApp\CalculationLibrary\bin\Debug\net8.0\CalculationLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\CalculatorUnitTestsDemoApp\CalculationLibrary\bin\Debug\net8.0\CalculationLibrary.pdb
+C:\Users\HOME\Desktop\Temp\Demos\CalculatorUnitTestsDemoApp\CalculationLibrary\obj\Debug\net8.0\CalculationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\CalculatorUnitTestsDemoApp\CalculationLibrary\obj\Debug\net8.0\CalculationLibrary.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\CalculatorUnitTestsDemoApp\CalculationLibrary\obj\Debug\net8.0\CalculationLibrary.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\CalculatorUnitTestsDemoApp\CalculationLibrary\obj\Debug\net8.0\CalculationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\CalculatorUnitTestsDemoApp\CalculationLibrary\obj\Debug\net8.0\CalculationLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\CalculatorUnitTestsDemoApp\CalculationLibrary\obj\Debug\net8.0\refint\CalculationLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\CalculatorUnitTestsDemoApp\CalculationLibrary\obj\Debug\net8.0\CalculationLibrary.pdb
+C:\Users\HOME\Desktop\Temp\Demos\CalculatorUnitTestsDemoApp\CalculationLibrary\obj\Debug\net8.0\ref\CalculationLibrary.dll

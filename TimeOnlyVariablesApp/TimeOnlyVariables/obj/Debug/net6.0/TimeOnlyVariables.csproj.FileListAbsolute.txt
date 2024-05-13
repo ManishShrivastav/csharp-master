@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net6.0\TimeOnlyVariables.exe
+C:\Users\HOME\Desktop\Temp\Demos\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net6.0\TimeOnlyVariables.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net6.0\TimeOnlyVariables.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net6.0\TimeOnlyVariables.dll
+C:\Users\HOME\Desktop\Temp\Demos\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net6.0\TimeOnlyVariables.pdb
+C:\Users\HOME\Desktop\Temp\Demos\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.dll
+C:\Users\HOME\Desktop\Temp\Demos\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\refint\TimeOnlyVariables.dll
+C:\Users\HOME\Desktop\Temp\Demos\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.pdb
+C:\Users\HOME\Desktop\Temp\Demos\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\TimeOnlyVariables.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net6.0\ref\TimeOnlyVariables.dll

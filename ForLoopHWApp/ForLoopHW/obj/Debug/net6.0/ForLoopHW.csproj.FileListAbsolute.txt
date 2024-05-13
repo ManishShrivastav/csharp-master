@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\ForLoopHWApp\ForLoopHW\bin\Debug\net6.0\ForLoopHW.exe
+C:\Users\HOME\Desktop\Temp\Demos\ForLoopHWApp\ForLoopHW\bin\Debug\net6.0\ForLoopHW.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\ForLoopHWApp\ForLoopHW\bin\Debug\net6.0\ForLoopHW.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\ForLoopHWApp\ForLoopHW\bin\Debug\net6.0\ForLoopHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\ForLoopHWApp\ForLoopHW\bin\Debug\net6.0\ForLoopHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\ForLoopHWApp\ForLoopHW\obj\Debug\net6.0\ForLoopHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\ForLoopHWApp\ForLoopHW\obj\Debug\net6.0\ForLoopHW.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\ForLoopHWApp\ForLoopHW\obj\Debug\net6.0\ForLoopHW.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\ForLoopHWApp\ForLoopHW\obj\Debug\net6.0\ForLoopHW.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\ForLoopHWApp\ForLoopHW\obj\Debug\net6.0\ForLoopHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\ForLoopHWApp\ForLoopHW\obj\Debug\net6.0\refint\ForLoopHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\ForLoopHWApp\ForLoopHW\obj\Debug\net6.0\ForLoopHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\ForLoopHWApp\ForLoopHW\obj\Debug\net6.0\ForLoopHW.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\ForLoopHWApp\ForLoopHW\obj\Debug\net6.0\ref\ForLoopHW.dll

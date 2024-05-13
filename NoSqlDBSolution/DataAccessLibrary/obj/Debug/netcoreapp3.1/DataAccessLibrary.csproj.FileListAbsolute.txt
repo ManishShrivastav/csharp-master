@@ -1,0 +1,10 @@
+C:\Users\me\source\repos\NoSqlDBSolution\DataAccessLibrary\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\me\source\repos\NoSqlDBSolution\DataAccessLibrary\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Users\me\source\repos\NoSqlDBSolution\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.deps.json
+C:\Users\me\source\repos\NoSqlDBSolution\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.dll
+C:\Users\me\source\repos\NoSqlDBSolution\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.pdb
+C:\Users\me\source\repos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.csprojAssemblyReference.cache
+C:\Users\me\source\repos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\me\source\repos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\me\source\repos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.dll
+C:\Users\me\source\repos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.pdb

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorServerMiniProject.props" />
+</Project>

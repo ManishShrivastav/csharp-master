@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\AdvancedBreakpointsHWApp\AdvancedBreakpointsHW\bin\Debug\net6.0\AdvancedBreakpointsHW.exe
+C:\Users\HOME\Desktop\Temp\Demos\AdvancedBreakpointsHWApp\AdvancedBreakpointsHW\bin\Debug\net6.0\AdvancedBreakpointsHW.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\AdvancedBreakpointsHWApp\AdvancedBreakpointsHW\bin\Debug\net6.0\AdvancedBreakpointsHW.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\AdvancedBreakpointsHWApp\AdvancedBreakpointsHW\bin\Debug\net6.0\AdvancedBreakpointsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\AdvancedBreakpointsHWApp\AdvancedBreakpointsHW\bin\Debug\net6.0\AdvancedBreakpointsHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\AdvancedBreakpointsHWApp\AdvancedBreakpointsHW\obj\Debug\net6.0\AdvancedBreakpointsHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\AdvancedBreakpointsHWApp\AdvancedBreakpointsHW\obj\Debug\net6.0\AdvancedBreakpointsHW.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\AdvancedBreakpointsHWApp\AdvancedBreakpointsHW\obj\Debug\net6.0\AdvancedBreakpointsHW.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\AdvancedBreakpointsHWApp\AdvancedBreakpointsHW\obj\Debug\net6.0\AdvancedBreakpointsHW.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\AdvancedBreakpointsHWApp\AdvancedBreakpointsHW\obj\Debug\net6.0\AdvancedBreakpointsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\AdvancedBreakpointsHWApp\AdvancedBreakpointsHW\obj\Debug\net6.0\refint\AdvancedBreakpointsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\AdvancedBreakpointsHWApp\AdvancedBreakpointsHW\obj\Debug\net6.0\AdvancedBreakpointsHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\AdvancedBreakpointsHWApp\AdvancedBreakpointsHW\obj\Debug\net6.0\AdvancedBreakpointsHW.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\AdvancedBreakpointsHWApp\AdvancedBreakpointsHW\obj\Debug\net6.0\ref\AdvancedBreakpointsHW.dll

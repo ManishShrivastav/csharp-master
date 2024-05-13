@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\LinqAndLambdaSolution\LinqUI\bin\Debug\net6.0\LinqUI.exe
+C:\Users\HOME\Desktop\Temp\Demos\LinqAndLambdaSolution\LinqUI\bin\Debug\net6.0\LinqUI.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\LinqAndLambdaSolution\LinqUI\bin\Debug\net6.0\LinqUI.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\LinqAndLambdaSolution\LinqUI\bin\Debug\net6.0\LinqUI.dll
+C:\Users\HOME\Desktop\Temp\Demos\LinqAndLambdaSolution\LinqUI\bin\Debug\net6.0\LinqUI.pdb
+C:\Users\HOME\Desktop\Temp\Demos\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\LinqUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\LinqUI.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\LinqUI.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\LinqUI.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\LinqUI.dll
+C:\Users\HOME\Desktop\Temp\Demos\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\refint\LinqUI.dll
+C:\Users\HOME\Desktop\Temp\Demos\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\LinqUI.pdb
+C:\Users\HOME\Desktop\Temp\Demos\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\LinqUI.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\ref\LinqUI.dll

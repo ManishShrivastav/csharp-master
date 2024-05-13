@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\ForEachLoopsHWApp\ForEachLoopsHW\bin\Debug\net6.0\ForEachLoopsHW.exe
+C:\Users\HOME\Desktop\Temp\Demos\ForEachLoopsHWApp\ForEachLoopsHW\bin\Debug\net6.0\ForEachLoopsHW.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\ForEachLoopsHWApp\ForEachLoopsHW\bin\Debug\net6.0\ForEachLoopsHW.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\ForEachLoopsHWApp\ForEachLoopsHW\bin\Debug\net6.0\ForEachLoopsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\ForEachLoopsHWApp\ForEachLoopsHW\bin\Debug\net6.0\ForEachLoopsHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\ForEachLoopsHWApp\ForEachLoopsHW\obj\Debug\net6.0\ForEachLoopsHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\ForEachLoopsHWApp\ForEachLoopsHW\obj\Debug\net6.0\ForEachLoopsHW.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\ForEachLoopsHWApp\ForEachLoopsHW\obj\Debug\net6.0\ForEachLoopsHW.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\ForEachLoopsHWApp\ForEachLoopsHW\obj\Debug\net6.0\ForEachLoopsHW.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\ForEachLoopsHWApp\ForEachLoopsHW\obj\Debug\net6.0\ForEachLoopsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\ForEachLoopsHWApp\ForEachLoopsHW\obj\Debug\net6.0\refint\ForEachLoopsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\ForEachLoopsHWApp\ForEachLoopsHW\obj\Debug\net6.0\ForEachLoopsHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\ForEachLoopsHWApp\ForEachLoopsHW\obj\Debug\net6.0\ForEachLoopsHW.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\ForEachLoopsHWApp\ForEachLoopsHW\obj\Debug\net6.0\ref\ForEachLoopsHW.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\SwitchDemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A3EE6B-D0CB-46F0-A6EC-17509F61C63A}|SwitchDemo\\SwitchDemo.csproj|c:\\users\\home\\desktop\\temp\\demos\\switchdemoapp\\switchdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A3EE6B-D0CB-46F0-A6EC-17509F61C63A}|SwitchDemo\\SwitchDemo.csproj|solutionrelative:switchdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\SwitchDemoApp\\SwitchDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SwitchDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\SwitchDemoApp\\SwitchDemo\\Program.cs",
+              "RelativeToolTip": "SwitchDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T16:46:33.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

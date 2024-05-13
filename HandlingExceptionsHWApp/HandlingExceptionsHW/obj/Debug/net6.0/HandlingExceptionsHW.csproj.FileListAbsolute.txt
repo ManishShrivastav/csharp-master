@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\HandlingExceptionsHWApp\HandlingExceptionsHW\bin\Debug\net6.0\HandlingExceptionsHW.exe
+C:\Users\HOME\Desktop\Temp\Demos\HandlingExceptionsHWApp\HandlingExceptionsHW\bin\Debug\net6.0\HandlingExceptionsHW.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\HandlingExceptionsHWApp\HandlingExceptionsHW\bin\Debug\net6.0\HandlingExceptionsHW.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\HandlingExceptionsHWApp\HandlingExceptionsHW\bin\Debug\net6.0\HandlingExceptionsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\HandlingExceptionsHWApp\HandlingExceptionsHW\bin\Debug\net6.0\HandlingExceptionsHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\HandlingExceptionsHWApp\HandlingExceptionsHW\obj\Debug\net6.0\HandlingExceptionsHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\HandlingExceptionsHWApp\HandlingExceptionsHW\obj\Debug\net6.0\HandlingExceptionsHW.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\HandlingExceptionsHWApp\HandlingExceptionsHW\obj\Debug\net6.0\HandlingExceptionsHW.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\HandlingExceptionsHWApp\HandlingExceptionsHW\obj\Debug\net6.0\HandlingExceptionsHW.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\HandlingExceptionsHWApp\HandlingExceptionsHW\obj\Debug\net6.0\HandlingExceptionsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\HandlingExceptionsHWApp\HandlingExceptionsHW\obj\Debug\net6.0\refint\HandlingExceptionsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\HandlingExceptionsHWApp\HandlingExceptionsHW\obj\Debug\net6.0\HandlingExceptionsHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\HandlingExceptionsHWApp\HandlingExceptionsHW\obj\Debug\net6.0\HandlingExceptionsHW.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\HandlingExceptionsHWApp\HandlingExceptionsHW\obj\Debug\net6.0\ref\HandlingExceptionsHW.dll

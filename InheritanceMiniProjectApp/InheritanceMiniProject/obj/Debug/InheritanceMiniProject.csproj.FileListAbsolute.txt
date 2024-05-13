@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\Temp\Demos\InheritanceMiniProjectApp\InheritanceMiniProject\bin\Debug\InheritanceMiniProject.exe.config
+C:\Users\HOME\Desktop\Temp\Demos\InheritanceMiniProjectApp\InheritanceMiniProject\bin\Debug\InheritanceMiniProject.exe
+C:\Users\HOME\Desktop\Temp\Demos\InheritanceMiniProjectApp\InheritanceMiniProject\bin\Debug\InheritanceMiniProject.pdb
+C:\Users\HOME\Desktop\Temp\Demos\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\InheritanceMiniProject.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Temp\Demos\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\InheritanceMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\InheritanceMiniProject.exe
+C:\Users\HOME\Desktop\Temp\Demos\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\InheritanceMiniProject.pdb

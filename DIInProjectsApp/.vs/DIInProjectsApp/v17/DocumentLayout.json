@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\DIInProjectsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78962580-28F9-4851-8B86-7390B5F5EA55}|FunctionApp\\FunctionApp.csproj|c:\\users\\home\\desktop\\temp\\demos\\diinprojectsapp\\functionapp\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78962580-28F9-4851-8B86-7390B5F5EA55}|FunctionApp\\FunctionApp.csproj|solutionrelative:functionapp\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\DIInProjectsApp\\FunctionApp\\Function1.cs",
+              "RelativeDocumentMoniker": "FunctionApp\\Function1.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\DIInProjectsApp\\FunctionApp\\Function1.cs",
+              "RelativeToolTip": "FunctionApp\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T00:23:53.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

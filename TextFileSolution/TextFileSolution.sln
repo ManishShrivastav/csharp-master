@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileUI", "TextFileUI\TextFileUI.csproj", "{219B8B67-E736-4108-9D0C-2A173C1B4518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLibrary", "DataAccessLibrary\DataAccessLibrary.csproj", "{52C9E303-E179-473A-9F13-C696E200FD9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{219B8B67-E736-4108-9D0C-2A173C1B4518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219B8B67-E736-4108-9D0C-2A173C1B4518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219B8B67-E736-4108-9D0C-2A173C1B4518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219B8B67-E736-4108-9D0C-2A173C1B4518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C9E303-E179-473A-9F13-C696E200FD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C9E303-E179-473A-9F13-C696E200FD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C9E303-E179-473A-9F13-C696E200FD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C9E303-E179-473A-9F13-C696E200FD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65925430-6749-4421-8DF5-029C62A63ADB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\MVCMessageWallApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7217D6AF-8A4C-4AA5-99B1-DC0454EFF2D8}|MVCMessageWall\\MVCMessageWall.csproj|c:\\users\\home\\desktop\\temp\\demos\\mvcmessagewallapp\\mvcmessagewall\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7217D6AF-8A4C-4AA5-99B1-DC0454EFF2D8}|MVCMessageWall\\MVCMessageWall.csproj|solutionrelative:mvcmessagewall\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7217D6AF-8A4C-4AA5-99B1-DC0454EFF2D8}|MVCMessageWall\\MVCMessageWall.csproj|c:\\users\\home\\desktop\\temp\\demos\\mvcmessagewallapp\\mvcmessagewall\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7217D6AF-8A4C-4AA5-99B1-DC0454EFF2D8}|MVCMessageWall\\MVCMessageWall.csproj|solutionrelative:mvcmessagewall\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\MVCMessageWallApp\\MVCMessageWall\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MVCMessageWall\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\MVCMessageWallApp\\MVCMessageWall\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MVCMessageWall\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T19:38:52.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\MVCMessageWallApp\\MVCMessageWall\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCMessageWall\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\MVCMessageWallApp\\MVCMessageWall\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCMessageWall\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T19:37:45.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\HOME\Desktop\Temp\Demos\ClassLibraryDemoApp\CoreLibrary\bin\Debug\net5.0\CoreLibrary.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\ClassLibraryDemoApp\CoreLibrary\bin\Debug\net5.0\CoreLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\ClassLibraryDemoApp\CoreLibrary\bin\Debug\net5.0\CoreLibrary.pdb
+C:\Users\HOME\Desktop\Temp\Demos\ClassLibraryDemoApp\CoreLibrary\obj\Debug\net5.0\CoreLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\ClassLibraryDemoApp\CoreLibrary\obj\Debug\net5.0\CoreLibrary.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\ClassLibraryDemoApp\CoreLibrary\obj\Debug\net5.0\CoreLibrary.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\ClassLibraryDemoApp\CoreLibrary\obj\Debug\net5.0\CoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\ClassLibraryDemoApp\CoreLibrary\obj\Debug\net5.0\CoreLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\ClassLibraryDemoApp\CoreLibrary\obj\Debug\net5.0\refint\CoreLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\ClassLibraryDemoApp\CoreLibrary\obj\Debug\net5.0\CoreLibrary.pdb
+C:\Users\HOME\Desktop\Temp\Demos\ClassLibraryDemoApp\CoreLibrary\obj\Debug\net5.0\ref\CoreLibrary.dll

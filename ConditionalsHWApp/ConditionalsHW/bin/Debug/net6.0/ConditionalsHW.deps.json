@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConditionalsHW/1.0.0": {
+        "runtime": {
+          "ConditionalsHW.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConditionalsHW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

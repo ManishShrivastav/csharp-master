@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\Temp\Demos\EventDemoApp\EventDemo\bin\Debug\EventDemo.exe.config
+C:\Users\HOME\Desktop\Temp\Demos\EventDemoApp\EventDemo\bin\Debug\EventDemo.exe
+C:\Users\HOME\Desktop\Temp\Demos\EventDemoApp\EventDemo\bin\Debug\EventDemo.pdb
+C:\Users\HOME\Desktop\Temp\Demos\EventDemoApp\EventDemo\obj\Debug\EventDemo.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Temp\Demos\EventDemoApp\EventDemo\obj\Debug\EventDemo.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\EventDemoApp\EventDemo\obj\Debug\EventDemo.exe
+C:\Users\HOME\Desktop\Temp\Demos\EventDemoApp\EventDemo\obj\Debug\EventDemo.pdb

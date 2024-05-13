@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\IfOrSwitchHWApp\IfOrSwitchHW\bin\Debug\net6.0\IfOrSwitchHW.exe
+C:\Users\HOME\Desktop\Temp\Demos\IfOrSwitchHWApp\IfOrSwitchHW\bin\Debug\net6.0\IfOrSwitchHW.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\IfOrSwitchHWApp\IfOrSwitchHW\bin\Debug\net6.0\IfOrSwitchHW.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\IfOrSwitchHWApp\IfOrSwitchHW\bin\Debug\net6.0\IfOrSwitchHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\IfOrSwitchHWApp\IfOrSwitchHW\bin\Debug\net6.0\IfOrSwitchHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\IfOrSwitchHWApp\IfOrSwitchHW\obj\Debug\net6.0\IfOrSwitchHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\IfOrSwitchHWApp\IfOrSwitchHW\obj\Debug\net6.0\IfOrSwitchHW.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\IfOrSwitchHWApp\IfOrSwitchHW\obj\Debug\net6.0\IfOrSwitchHW.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\IfOrSwitchHWApp\IfOrSwitchHW\obj\Debug\net6.0\IfOrSwitchHW.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\IfOrSwitchHWApp\IfOrSwitchHW\obj\Debug\net6.0\IfOrSwitchHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\IfOrSwitchHWApp\IfOrSwitchHW\obj\Debug\net6.0\refint\IfOrSwitchHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\IfOrSwitchHWApp\IfOrSwitchHW\obj\Debug\net6.0\IfOrSwitchHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\IfOrSwitchHWApp\IfOrSwitchHW\obj\Debug\net6.0\IfOrSwitchHW.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\IfOrSwitchHWApp\IfOrSwitchHW\obj\Debug\net6.0\ref\IfOrSwitchHW.dll

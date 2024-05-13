@@ -1,0 +1,11 @@
+C:\Users\HOME\Desktop\Temp\Demos\DIInProjectsApp\DIDemoLib\bin\Debug\net6.0\DIDemoLib.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\DIInProjectsApp\DIDemoLib\bin\Debug\net6.0\DIDemoLib.dll
+C:\Users\HOME\Desktop\Temp\Demos\DIInProjectsApp\DIDemoLib\bin\Debug\net6.0\DIDemoLib.pdb
+C:\Users\HOME\Desktop\Temp\Demos\DIInProjectsApp\DIDemoLib\obj\Debug\net6.0\DIDemoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\DIInProjectsApp\DIDemoLib\obj\Debug\net6.0\DIDemoLib.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\DIInProjectsApp\DIDemoLib\obj\Debug\net6.0\DIDemoLib.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\DIInProjectsApp\DIDemoLib\obj\Debug\net6.0\DIDemoLib.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\DIInProjectsApp\DIDemoLib\obj\Debug\net6.0\DIDemoLib.dll
+C:\Users\HOME\Desktop\Temp\Demos\DIInProjectsApp\DIDemoLib\obj\Debug\net6.0\refint\DIDemoLib.dll
+C:\Users\HOME\Desktop\Temp\Demos\DIInProjectsApp\DIDemoLib\obj\Debug\net6.0\DIDemoLib.pdb
+C:\Users\HOME\Desktop\Temp\Demos\DIInProjectsApp\DIDemoLib\obj\Debug\net6.0\ref\DIDemoLib.dll

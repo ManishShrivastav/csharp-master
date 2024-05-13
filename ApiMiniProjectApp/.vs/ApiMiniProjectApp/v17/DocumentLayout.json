@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ApiMiniProjectApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF6A3B7-322C-4F9E-910F-F4F2BC49B411}|ApiMiniProject\\ApiMiniProject.csproj|c:\\users\\home\\desktop\\temp\\demos\\apiminiprojectapp\\apiminiproject\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF6A3B7-322C-4F9E-910F-F4F2BC49B411}|ApiMiniProject\\ApiMiniProject.csproj|solutionrelative:apiminiproject\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF6A3B7-322C-4F9E-910F-F4F2BC49B411}|ApiMiniProject\\ApiMiniProject.csproj|c:\\users\\home\\desktop\\temp\\demos\\apiminiprojectapp\\apiminiproject\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF6A3B7-322C-4F9E-910F-F4F2BC49B411}|ApiMiniProject\\ApiMiniProject.csproj|solutionrelative:apiminiproject\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF6A3B7-322C-4F9E-910F-F4F2BC49B411}|ApiMiniProject\\ApiMiniProject.csproj|c:\\users\\home\\desktop\\temp\\demos\\apiminiprojectapp\\apiminiproject\\models\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF6A3B7-322C-4F9E-910F-F4F2BC49B411}|ApiMiniProject\\ApiMiniProject.csproj|solutionrelative:apiminiproject\\models\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF6A3B7-322C-4F9E-910F-F4F2BC49B411}|ApiMiniProject\\ApiMiniProject.csproj|c:\\users\\home\\desktop\\temp\\demos\\apiminiprojectapp\\apiminiproject\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF6A3B7-322C-4F9E-910F-F4F2BC49B411}|ApiMiniProject\\ApiMiniProject.csproj|solutionrelative:apiminiproject\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ApiMiniProjectApp\\ApiMiniProject\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "ApiMiniProject\\Controllers\\AddressController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ApiMiniProjectApp\\ApiMiniProject\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "ApiMiniProject\\Controllers\\AddressController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:35:35.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddressModel.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ApiMiniProjectApp\\ApiMiniProject\\Models\\AddressModel.cs",
+              "RelativeDocumentMoniker": "ApiMiniProject\\Models\\AddressModel.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ApiMiniProjectApp\\ApiMiniProject\\Models\\AddressModel.cs",
+              "RelativeToolTip": "ApiMiniProject\\Models\\AddressModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:34:13.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ApiMiniProjectApp\\ApiMiniProject\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "ApiMiniProject\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ApiMiniProjectApp\\ApiMiniProject\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "ApiMiniProject\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:27:02.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ApiMiniProjectApp\\ApiMiniProject\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "ApiMiniProject\\Models\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\ApiMiniProjectApp\\ApiMiniProject\\Models\\PersonModel.cs",
+              "RelativeToolTip": "ApiMiniProject\\Models\\PersonModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:21:37.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

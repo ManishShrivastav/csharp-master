@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\Temp\Demos\ExtensionMethoHWApp\ExtensionMethoHW\bin\Debug\ExtensionMethoHW.exe.config
+C:\Users\HOME\Desktop\Temp\Demos\ExtensionMethoHWApp\ExtensionMethoHW\bin\Debug\ExtensionMethoHW.exe
+C:\Users\HOME\Desktop\Temp\Demos\ExtensionMethoHWApp\ExtensionMethoHW\bin\Debug\ExtensionMethoHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\ExtensionMethoHWApp\ExtensionMethoHW\obj\Debug\ExtensionMethoHW.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Temp\Demos\ExtensionMethoHWApp\ExtensionMethoHW\obj\Debug\ExtensionMethoHW.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\ExtensionMethoHWApp\ExtensionMethoHW\obj\Debug\ExtensionMethoHW.exe
+C:\Users\HOME\Desktop\Temp\Demos\ExtensionMethoHWApp\ExtensionMethoHW\obj\Debug\ExtensionMethoHW.pdb

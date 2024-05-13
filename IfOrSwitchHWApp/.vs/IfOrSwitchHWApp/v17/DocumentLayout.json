@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\IfOrSwitchHWApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B40937E-14E1-4C25-A73C-222636D40F83}|IfOrSwitchHW\\IfOrSwitchHW.csproj|c:\\users\\home\\desktop\\temp\\demos\\iforswitchhwapp\\iforswitchhw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B40937E-14E1-4C25-A73C-222636D40F83}|IfOrSwitchHW\\IfOrSwitchHW.csproj|solutionrelative:iforswitchhw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\IfOrSwitchHWApp\\IfOrSwitchHW\\Program.cs",
+              "RelativeDocumentMoniker": "IfOrSwitchHW\\Program.cs",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\Temp\\Demos\\IfOrSwitchHWApp\\IfOrSwitchHW\\Program.cs",
+              "RelativeToolTip": "IfOrSwitchHW\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T02:12:02.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

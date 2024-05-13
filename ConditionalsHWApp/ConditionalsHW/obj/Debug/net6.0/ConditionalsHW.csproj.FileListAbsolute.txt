@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\ConditionalsHWApp\ConditionalsHW\bin\Debug\net6.0\ConditionalsHW.exe
+C:\Users\HOME\Desktop\Temp\Demos\ConditionalsHWApp\ConditionalsHW\bin\Debug\net6.0\ConditionalsHW.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\ConditionalsHWApp\ConditionalsHW\bin\Debug\net6.0\ConditionalsHW.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\ConditionalsHWApp\ConditionalsHW\bin\Debug\net6.0\ConditionalsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\ConditionalsHWApp\ConditionalsHW\bin\Debug\net6.0\ConditionalsHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\ConditionalsHWApp\ConditionalsHW\obj\Debug\net6.0\ConditionalsHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\ConditionalsHWApp\ConditionalsHW\obj\Debug\net6.0\ConditionalsHW.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\ConditionalsHWApp\ConditionalsHW\obj\Debug\net6.0\ConditionalsHW.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\ConditionalsHWApp\ConditionalsHW\obj\Debug\net6.0\ConditionalsHW.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\ConditionalsHWApp\ConditionalsHW\obj\Debug\net6.0\ConditionalsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\ConditionalsHWApp\ConditionalsHW\obj\Debug\net6.0\refint\ConditionalsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\ConditionalsHWApp\ConditionalsHW\obj\Debug\net6.0\ConditionalsHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\ConditionalsHWApp\ConditionalsHW\obj\Debug\net6.0\ConditionalsHW.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\ConditionalsHWApp\ConditionalsHW\obj\Debug\net6.0\ref\ConditionalsHW.dll

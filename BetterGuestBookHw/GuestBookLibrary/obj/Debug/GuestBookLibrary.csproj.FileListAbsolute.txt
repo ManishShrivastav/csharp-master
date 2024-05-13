@@ -1,0 +1,5 @@
+C:\Users\HOME\Desktop\Temp\Demos\BetterGuestBookHw\GuestBookLibrary\bin\Debug\GuestBookLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\BetterGuestBookHw\GuestBookLibrary\bin\Debug\GuestBookLibrary.pdb
+C:\Users\HOME\Desktop\Temp\Demos\BetterGuestBookHw\GuestBookLibrary\obj\Debug\GuestBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\BetterGuestBookHw\GuestBookLibrary\obj\Debug\GuestBookLibrary.dll
+C:\Users\HOME\Desktop\Temp\Demos\BetterGuestBookHw\GuestBookLibrary\obj\Debug\GuestBookLibrary.pdb

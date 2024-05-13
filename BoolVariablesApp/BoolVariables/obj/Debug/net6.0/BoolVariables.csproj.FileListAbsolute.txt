@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\BoolVariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.exe
+C:\Users\HOME\Desktop\Temp\Demos\BoolVariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\BoolVariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\BoolVariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.dll
+C:\Users\HOME\Desktop\Temp\Demos\BoolVariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.pdb
+C:\Users\HOME\Desktop\Temp\Demos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.dll
+C:\Users\HOME\Desktop\Temp\Demos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\refint\BoolVariables.dll
+C:\Users\HOME\Desktop\Temp\Demos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.pdb
+C:\Users\HOME\Desktop\Temp\Demos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\ref\BoolVariables.dll

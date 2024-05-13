@@ -1,0 +1,10 @@
+C:\Users\HOME\Desktop\Temp\Demos\MessageWallApp\MessageWall\bin\Debug\MessageWall.exe.config
+C:\Users\HOME\Desktop\Temp\Demos\MessageWallApp\MessageWall\bin\Debug\MessageWall.exe
+C:\Users\HOME\Desktop\Temp\Demos\MessageWallApp\MessageWall\bin\Debug\MessageWall.pdb
+C:\Users\HOME\Desktop\Temp\Demos\MessageWallApp\MessageWall\obj\Debug\MessageWall.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Temp\Demos\MessageWallApp\MessageWall\obj\Debug\MessageWall.Properties.Resources.resources
+C:\Users\HOME\Desktop\Temp\Demos\MessageWallApp\MessageWall\obj\Debug\MessageWall.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\Temp\Demos\MessageWallApp\MessageWall\obj\Debug\MessageWall.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\MessageWallApp\MessageWall\obj\Debug\MessageWall.exe
+C:\Users\HOME\Desktop\Temp\Demos\MessageWallApp\MessageWall\obj\Debug\MessageWall.pdb
+C:\Users\HOME\Desktop\Temp\Demos\MessageWallApp\MessageWall\obj\Debug\MessageWall.Dashboard.resources

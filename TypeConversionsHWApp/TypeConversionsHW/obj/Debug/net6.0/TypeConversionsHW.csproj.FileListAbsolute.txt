@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\Temp\Demos\TypeConversionsHWApp\TypeConversionsHW\bin\Debug\net6.0\TypeConversionsHW.exe
+C:\Users\HOME\Desktop\Temp\Demos\TypeConversionsHWApp\TypeConversionsHW\bin\Debug\net6.0\TypeConversionsHW.deps.json
+C:\Users\HOME\Desktop\Temp\Demos\TypeConversionsHWApp\TypeConversionsHW\bin\Debug\net6.0\TypeConversionsHW.runtimeconfig.json
+C:\Users\HOME\Desktop\Temp\Demos\TypeConversionsHWApp\TypeConversionsHW\bin\Debug\net6.0\TypeConversionsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\TypeConversionsHWApp\TypeConversionsHW\bin\Debug\net6.0\TypeConversionsHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\TypeConversionsHWApp\TypeConversionsHW\obj\Debug\net6.0\TypeConversionsHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Temp\Demos\TypeConversionsHWApp\TypeConversionsHW\obj\Debug\net6.0\TypeConversionsHW.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\TypeConversionsHWApp\TypeConversionsHW\obj\Debug\net6.0\TypeConversionsHW.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Temp\Demos\TypeConversionsHWApp\TypeConversionsHW\obj\Debug\net6.0\TypeConversionsHW.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Temp\Demos\TypeConversionsHWApp\TypeConversionsHW\obj\Debug\net6.0\TypeConversionsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\TypeConversionsHWApp\TypeConversionsHW\obj\Debug\net6.0\refint\TypeConversionsHW.dll
+C:\Users\HOME\Desktop\Temp\Demos\TypeConversionsHWApp\TypeConversionsHW\obj\Debug\net6.0\TypeConversionsHW.pdb
+C:\Users\HOME\Desktop\Temp\Demos\TypeConversionsHWApp\TypeConversionsHW\obj\Debug\net6.0\TypeConversionsHW.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Temp\Demos\TypeConversionsHWApp\TypeConversionsHW\obj\Debug\net6.0\ref\TypeConversionsHW.dll
